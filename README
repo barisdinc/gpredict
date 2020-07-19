@@ -18,6 +18,7 @@ Some core features of Gpredict include:
 - Detailed information both the real time and non-real time modes
 - Doppler tuning of radios via Hamlib rigctld
 - Antenna rotator control via Hamlib rotctld
+- Moon tracking for moon bouncing
 
 Visit the gpredict homepage at http://gpredict.oz9aec.net/ for more info.
 
